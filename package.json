@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "nodemon server.js",
     "dev3": "babel-node  server.js"
-
   },
   "author": "Gethyl George",
   "license": "ISC",
